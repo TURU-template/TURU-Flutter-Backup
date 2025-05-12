@@ -21,7 +21,7 @@ class SleepHistoryPage extends StatelessWidget {
         'selesai': '11:25',
       },
       {
-        'emoji': '🐍',
+        'emoji': '🦈',
         'tanggal': 'Kamis, 15 Mei 2025',
         'skor': 30,
         'mulai': '19:25',
